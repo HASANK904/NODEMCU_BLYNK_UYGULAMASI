@@ -8,8 +8,8 @@
 #include <BlynkSimpleEsp8266.h>
 
 char auth[] = "sRLpaeXnlpmDWbK2O3sOYbGqzfEdCt0L";
-char ssid[] = "Kobastar_ARGE";
-char pass[] = "47805224";
+char ssid[] = "KENDİNE GÖRE DOLDUR";
+char pass[] = "KENDİNE GÖRE DOLDUR";
 
 #define LED_PIN D0
 
